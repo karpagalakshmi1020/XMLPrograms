@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 50%;
+  padding: 100px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Grid of Boxes</h2>
+<p>Float boxes side by side:</p>
+<br>
+<br>
+<center>
+<div class="clearfix">
+  <div class="box" style="background-color:red">
+  <a href="index.html"><button style="background-color:red;color:white;width:50%; height:200px;" > Link </button></a> <!-- Button link -->
+  </div>
+  <div class="box" style="background-color:yellow">
+  <a href="index.html"><button style="background-color:yellow;color:white;width:50%; height:200px;" > Link </button></a> <!-- Button link -->
+  </div>
+  <div class="box" style="background-color:green">
+  <a href="index.html"><button style="background-color:green;color:white;width:50%; height:200px;" > Link </button></a> <!-- Button link -->
+  </div>
+  <div class="box" style="background-color:blue">
+  <a href="index.html"><button style="background-color:blue;color:white;width:50%; height:200px;" > Link </button></a> <!-- Button link -->
+  </div>
+</div>
+</center>
+
+
+
+
+<p>Note that we also use the clearfix hack to take care of the layout flow, and that add the box-sizing property to make sure that the box doesn't break due to extra padding. Try to remove this code to see the effect.</p>
+
+</body>
+</html>

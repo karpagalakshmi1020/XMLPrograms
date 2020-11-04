@@ -1,0 +1,171 @@
+
+[
+   {
+      "CATEGORY": "EATABLES",
+      "PRODUCT": "Chocolates",
+      "CURRENCY": "INR",
+      "PRICE": "50",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "EATABLES",
+      "PRODUCT": "Juices",
+      "CURRENCY": "INR",
+      "PRICE": "65",
+      "RATING": "****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "ELECTRONICS",
+      "PRODUCT": "Fridge",
+      "CURRENCY": "INR",
+      "PRICE": "40,000",
+      "RATING": "*****",
+      "PAYMENT": "Online payment / Cash on delivery"
+   },
+   {
+      "CATEGORY": "ELECTRONICS",
+      "PRODUCT": "Television",
+      "CURRENCY": "INR",
+      "PRICE": "30,000",
+      "RATING": "****",
+      "PAYMENT": "Online payment / Cash on delivery"
+   },
+   {
+      "CATEGORY": "ELECTRONICS",
+      "PRODUCT": "Washing Machine",
+      "CURRENCY": "INR",
+      "PRICE": "25,000",
+      "RATING": "****",
+      "PAYMENT": "Online payment / Cash on delivery"
+   },
+   {
+      "CATEGORY": "FRUITS",
+      "PRODUCT": "Pineapple",
+      "CURRENCY": "INR",
+      "PRICE": "75",
+      "RATING": "*****",
+      "PAYMENT": "Online payment"
+   },
+   {
+      "CATEGORY": "FRUITS",
+      "PRODUCT": "Watermelon",
+      "CURRENCY": "INR",
+      "PRICE": "80",
+      "RATING": "*****",
+      "PAYMENT": "Online payment"
+   },
+   {
+      "CATEGORY": "GADGETS",
+      "PRODUCT": "Laptop",
+      "CURRENCY": "INR",
+      "PRICE": "50,000",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "GADGETS",
+      "PRODUCT": "Smart phone",
+      "CURRENCY": "INR",
+      "PRICE": "15,000",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "GADGETS",
+      "PRODUCT": "Pendrives",
+      "CURRENCY": "INR",
+      "PRICE": "500",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "KIDS WEAR",
+      "PRODUCT": "Casuals",
+      "CURRENCY": "INR",
+      "PRICE": "350",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "KIDS WEAR",
+      "PRODUCT": "Frocks",
+      "CURRENCY": "INR",
+      "PRICE": "500",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "KIDS WEAR",
+      "PRODUCT": "Ethnic",
+      "CURRENCY": "INR",
+      "PRICE": "2000",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "MENS WEAR",
+      "PRODUCT": "Pants",
+      "CURRENCY": "INR",
+      "PRICE": "400",
+      "RATING": "***",
+      "PAYMENT": "Online payment"
+   },
+   {
+      "CATEGORY": "MENS WEAR",
+      "PRODUCT": "Sherwanis",
+      "CURRENCY": "INR",
+      "PRICE": "3000",
+      "RATING": "****",
+      "PAYMENT": "Online payment"
+   },
+   {
+      "CATEGORY": "MENS WEAR",
+      "PRODUCT": "Shirts",
+      "CURRENCY": "INR",
+      "PRICE": "250",
+      "RATING": "****",
+      "PAYMENT": "Online payment"
+   },
+   {
+      "CATEGORY": "WOMENS WEAR",
+      "PRODUCT": "Anarkalis",
+      "CURRENCY": "INR",
+      "PRICE": "1500",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "WOMENS WEAR",
+      "PRODUCT": "Kurthis",
+      "CURRENCY": "INR",
+      "PRICE": "1000",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "WOMENS WEAR",
+      "PRODUCT": "Sarees",
+      "CURRENCY": "INR",
+      "PRICE": "800",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "VEGETABLES",
+      "PRODUCT": "Potato",
+      "CURRENCY": "INR",
+      "PRICE": "50",
+      "RATING": "***",
+      "PAYMENT": "Cash on delivery"
+   },
+   {
+      "CATEGORY": "VEGETABLES",
+      "PRODUCT": "Tomato",
+      "CURRENCY": "INR",
+      "PRICE": "50",
+      "RATING": "***",
+      "PAYMENT": "Cash on delivery"
+   }
+]

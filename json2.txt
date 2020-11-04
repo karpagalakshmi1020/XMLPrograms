@@ -1,0 +1,128 @@
+[
+   {
+      "name": "1. CHOCOLATES",
+      "price": "INR 50",
+      "description": "A little bit of sweetness can drown out a whole lot of bitterness!!",
+      "sold": "650"
+   },
+   {
+      "name": "2. JUICES",
+      "price": "INR 65",
+      "description": "If life gives you lemons, make some kind of fruity juice!!",
+      "sold": "900"
+   },
+   {
+      "name": "3. FRIDGE",
+      "price": "INR 40,000",
+      "description": "Whenever you lose some weight, find it again in me!!",
+      "sold": "900"
+   },
+   {
+      "name": "4. TELEVISION",
+      "price": "INR 30,000",
+      "description": "Feeling bored? Watch your favourite teleshows in me!!",
+      "sold": "600"
+   },
+   {
+      "name": "5. WASHING MACHINE",
+      "price": "INR 25,000",
+      "description": "Brilliant performance and washing aglow ; stylish quality and consumption low!!",
+      "sold": "950"
+   },
+   {
+      "name": "6. PINEAPPLE",
+      "price": "INR 75",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "2000"
+   },
+   {
+      "name": "7. WATERMELON",
+      "price": "INR 80",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "2000"
+   },
+   {
+      "name": "8. LAPTOP",
+      "price": "INR 50,000",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "250"
+   },
+   {
+      "name": "9. SMART PHONE",
+      "price": "INR 15,000",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "500"
+   },
+   {
+      "name": "10. PENDRIVES",
+      "price": "INR 500",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "700"
+   },
+   {
+      "name": "11. CASUALS",
+      "price": "INR 350",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "750"
+   },
+   {
+      "name": "12. FROCKS",
+      "price": "INR 500",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "300"
+   },
+   {
+      "name": "13. ETHNIC",
+      "price": "INR 2000",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "300"
+   },
+   {
+      "name": "14. PANTS",
+      "price": "INR 400",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "1000"
+   },
+   {
+      "name": "15. SHERWANIS",
+      "price": "INR 3000",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "150"
+   },
+   {
+      "name": "16. SHIRTS",
+      "price": "INR 250",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "3000"
+   },
+   {
+      "name": "17. ANARKALIS",
+      "price": "INR 1500",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "700"
+   },
+   {
+      "name": "18. KURTHIS",
+      "price": "INR 1000",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "900"
+   },
+   {
+      "name": "19. SAREES",
+      "price": "INR 800",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "1000"
+   },
+   {
+      "name": "20. POTATO",
+      "price": "INR 50",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "10000"
+   },
+   {
+      "name": "21. TOMATO",
+      "price": "INR 50",
+      "description": "Make sure you peel off my skin before consuming!!",
+      "sold": "10000"
+   }
+]

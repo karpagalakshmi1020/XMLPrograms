@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	body{
+		background-color:#7CFC00;
+	}
+</style>
+</head>
+<body>
+
+<center><h2 style="color:blue">An Example Of Json - PARSE() For The Category "EATABLES!!"</h2>
+<h2>Please take a look at the following example!!</h2>
+<strong>
+<h3 style="color : #8B0000"> ****** The parameters which are enclosed in the single quotes are actually the Json-Parsed objects :) *****</h3>
+</strong>
+
+<p id="demo"></p>
+</center>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(this.responseText);
+    document.getElementById("demo").innerHTML = "The catogory " + "'" + myObj.CATEGORY  + "'" + " has a product called " +  "'" + myObj.PRODUCT +  "'" + " which has the price " +  "'" + myObj.CURRENCY + myObj.PRICE +  "'" + " with the rating  " +  "'" + myObj.RATING +  "'" + "  and has the payment facility - " +  "'" + myObj.PAYMENT +  "'" ;
+  }
+};
+xmlhttp.open("GET", "json_demo1.txt", true);
+xmlhttp.send();
+</script>
+
+<marquee behaviour = "scroll" direction= "left"><strong><h2 style="color : purple">......Take a look at the <a href="json_demo1.txt">json_demo1.txt</a> which has been parsed .....</h2></strong></marquee>
+
+<center><h1>Wanna take a look at some more Json files ?? ... If so, click the below links :)</h1></center>
+<marquee behaviour = "scroll" direction= "right"><a href="json1.txt" style="color :#4B0082 "><strong> I am JSON - 1 !! :) </strong></a></marquee>
+<br>
+<marquee behaviour = "scroll" direction= "left"><a href="json2.txt" style="color :#4B0082 "><strong> I am JSON - 2 !! :) </strong></a></marquee>
+
+</body>
+</html>

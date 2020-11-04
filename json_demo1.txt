@@ -1,0 +1,9 @@
+
+   {
+      "CATEGORY": "EATABLES",
+      "PRODUCT": "Chocolates",
+      "CURRENCY": "INR",
+      "PRICE": "50",
+      "RATING": "*****",
+      "PAYMENT": "Cash on delivery"
+   }

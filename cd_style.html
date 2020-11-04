@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shopping cart XML</title>
+<style>
+	body{
+		background-color:orange;
+	}
+</style>
+</head>
+
+<body>
+<marquee behaviour = "scroll" direction= "left"><h1 style="color : blue"><strong>Product details in 18IT040 store :) !!!</strong></h1></marquee>
+<p><center><button onclick="loadXMLDoc()">Click here to view the products in my store!!</button></center></p>
+
+<table id="demo" border="1" align="center">
+<tr><th>CATEGORY</th><th>PRODUCT</th><th>CURRENCY</th><th>PRICE</th><th>RATING</th><th>PAYMENT</th></tr>
+</table>
+
+<script>
+function loadXMLDoc() {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+    }
+  };
+  xmlhttp.open("GET", "cd_catalog.xml" , true);
+  xmlhttp.send();
+}
+
+function myFunction(xml) {
+  var x, i, xmlDoc, table;
+  xmlDoc = xml.responseXML;
+  table = "<tr><th>CATEGORY</th><th>PRODUCT</th><th>CURRENCY</th><th>PRICE</th><th>RATING</th><th>PAYMENT</th></tr>";
+  x = xmlDoc.getElementsByTagName("CD")
+  for (i = 0; i < x.length; i++) { 
+    table += "<tr><td>"
+	+  x[i].getElementsByTagName("CATEGORY")[0].childNodes[0].nodeValue + "</td><td>" 
+	+  x[i].getElementsByTagName("PRODUCT")[0].childNodes[0].nodeValue + "</td><td>" 
+	+  x[i].getElementsByTagName("CURRENCY")[0].childNodes[0].nodeValue + "</td><td>" 
+	+  x[i].getElementsByTagName("PRICE")[0].childNodes[0].nodeValue + "</td><td>" 
+	+  x[i].getElementsByTagName("RATING")[0].childNodes[0].nodeValue + "</td><td>" 
+	+  x[i].getElementsByTagName("PAYMENT")[0].childNodes[0].nodeValue + "</td></tr>";
+	
+  }
+  document.getElementById("demo").innerHTML = table;
+}
+</script>
+<br>
+
+<center><a href="simple.xml"> Click here to view the product description !! :) </a></center>
+
+</body>
+</html>

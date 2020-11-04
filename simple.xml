@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="simple.xsl" ?>
+<product_details>
+<product>
+<name>1. CHOCOLATES</name>
+<price>INR 50</price>
+<description>A little bit of sweetness can drown out a whole lot of bitterness!!</description>
+<sold>650</sold>
+</product>
+<product>
+<name>2. JUICES</name>
+<price>INR 65</price>
+<description>If life gives you lemons, make some kind of fruity juice!!</description>
+<sold>900</sold>
+</product>
+<product>
+<name>3. FRIDGE</name>
+<price>INR 40,000</price>
+<description>Whenever you lose some weight, find it again in me!!</description>
+<sold>900</sold>
+</product>
+<product>
+<name>4. TELEVISION</name>
+<price>INR 30,000</price>
+<description>Feeling bored? Watch your favourite teleshows in me!!</description>
+<sold>600</sold>
+</product>
+<product>
+<name>5. WASHING MACHINE</name>
+<price>INR 25,000</price>
+<description>Brilliant performance and washing aglow ; stylish quality and consumption low!!</description>
+<sold>950</sold>
+</product>
+<product>
+<name>6. PINEAPPLE</name>
+<price>INR 75</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>2000</sold>
+</product>
+<product>
+<name>7. WATERMELON</name>
+<price>INR 80</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>2000</sold>
+</product>
+<product>
+<name>8. LAPTOP</name>
+<price>INR 50,000</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>250</sold>
+</product>
+<product>
+<name>9. SMART PHONE</name>
+<price>INR 15,000</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>500</sold>
+</product>
+<product>
+<name>10. PENDRIVES</name>
+<price>INR 500</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>700</sold>
+</product>
+<product>
+<name>11. CASUALS</name>
+<price>INR 350</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>750</sold>
+</product>
+<product>
+<name>12. FROCKS</name>
+<price>INR 500</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>300</sold>
+</product>
+<product>
+<name>13. ETHNIC</name>
+<price>INR 2000</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>300</sold>
+</product>
+<product>
+<name>14. PANTS</name>
+<price>INR 400</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>1000</sold>
+</product>
+<product>
+<name>15. SHERWANIS</name>
+<price>INR 3000</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>150</sold>
+</product>
+<product>
+<name>16. SHIRTS</name>
+<price>INR 250</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>3000</sold>
+</product>
+<product>
+<name>17. ANARKALIS</name>
+<price>INR 1500</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>700</sold>
+</product>
+<product>
+<name>18. KURTHIS</name>
+<price>INR 1000</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>900</sold>
+</product>
+<product>
+<name>19. SAREES</name>
+<price>INR 800</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>1000</sold>
+</product>
+<product>
+<name>20. POTATO</name>
+<price>INR 50</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>10000</sold>
+</product>
+<product>
+<name>21. TOMATO</name>
+<price>INR 50</price>
+<description>Make sure you peel off my skin before consuming!!</description>
+<sold>10000</sold>
+</product>
+</product_details>
